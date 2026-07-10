@@ -66,13 +66,14 @@ This project demonstrates how to:
 
 ## 🗳️ Voting Application
 
-![Voting Application](https://github.com/rushikeshsatwadhar/k8s-kind-voting-app/blob/main/Screenshot/Screenshot%202026-07-08%20at%2010.05.41%E2%80%AFPM.png?raw=true)
+![Voting Application](https://github.com/rushikeshsatwadhar/k8s-kind-voting-app/blob/main/Screenshot/Voting%20Application.png?raw=true)
 
 ---
 
 ## 📊 Result Application
 
-![Result Application](./Screenshot/result.png)
+![Result Application](https://github.com/rushikeshsatwadhar/k8s-kind-voting-app/blob/main/Screenshot/Result%20Application.png?raw=true)
+
 ---
 
 ## 📁 Kubernetes Components
@@ -127,15 +128,6 @@ Developer
 - Multi-container application
 - Easy to reproduce
 - Beginner-friendly DevOps project
-
----
-
-## 👨‍💻 Author
-
-**Rushikesh Satwadhar**
-
-- GitHub: https://github.com/rushikeshsatwadhar
-- LinkedIn: https://www.linkedin.com/in/rushikeshsatwadhar/
 
 ---
 
